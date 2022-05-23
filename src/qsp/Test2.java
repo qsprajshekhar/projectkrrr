@@ -7,6 +7,9 @@ public class Test2 {
 		//fhjjksddbwhd
 		//kfehkjewdsbashhebfnsdmnaddsfve
 		//faejhkjheefhwbwhfvnbj
+		String ad;
+		String vvvvvv;
+
 	}
 
 }
