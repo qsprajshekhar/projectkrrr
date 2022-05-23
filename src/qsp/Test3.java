@@ -8,7 +8,7 @@ public class Test3 {
 		//kfehkjew
 
 		//faejhdqweyyyyyyyyyyyyyyyy
-		/ekhqrhkq
+		//ekhqrhkq
 
 	}
 
